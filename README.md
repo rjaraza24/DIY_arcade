@@ -12,3 +12,10 @@ B. Conveyor Control
 
 
 C. Arcade Timer and Scorer 
+
+
+D. Arcade Credit Generator and Storage EEPROM
+
+
+E. Credit triggered Cellphone Charging Module
+
