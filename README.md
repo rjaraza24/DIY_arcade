@@ -5,7 +5,7 @@ Compilation of Arduino and Raspberry Pi Codes for Controlling Arcade Machine
 OBJECTIVES
 
 
-A. Currency recognition Method 
+A. Currency recognition/ Barcode recognition Method 
 
 
 B. Conveyor Control
@@ -18,4 +18,5 @@ D. Arcade Credit Generator and Storage EEPROM
 
 
 E. Credit triggered Cellphone Charging Module
+
 
